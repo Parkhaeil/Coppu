@@ -3,15 +3,15 @@ PNU 코딩테스트 스터디
 <table>
   <tr>
     <td>진행 기간</td>
-    <td>2026.01.06 ~ 2026.02.28</td>
+    <td>2026.01.06 ~ 2026.06.11</td>
   </tr>
   <tr>
     <td>스터디 장소</td>
-    <td>부산대학교</td>
+    <td>온라인(디스코드)</td>
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td>화요일 14:00~16:00 </td>
+    <td>목요일 22:50~23:50 </td>
   </tr>
   <tr>
     <td>플랫폼</td>
@@ -33,14 +33,17 @@ PNU 코딩테스트 스터디
     <td align="center"><a href="https://github.com/Jimin-K04"><img src="https://avatars.githubusercontent.com/u/173872163?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/202255605"><img src="https://avatars.githubusercontent.com/u/102909920?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Nayeeun5"><img src="https://avatars.githubusercontent.com/u/182473122?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jin04151"><img src="https://avatars.githubusercontent.com/u/182473122?v=4" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Parkhaeil"><b>Parkhaeil</b></a></td>
     <td align="center"><a href="https://github.com/Jimin-K04"><b>Jimin-K04</b></a></td>
     <td align="center"><a href="https://github.com/202255605"><b>202255605</b></a></td>
     <td align="center"><a href="https://github.com/Nayeeun5"><b>Nayeeun5</b></a></td>
+    <td align="center"><a href="https://github.com/jin04151"><b>jin04151</b></a></td>
   </tr>
   <tr> 
+    <td align="center">C++</td>
     <td align="center">C++</td>
     <td align="center">C++</td>
     <td align="center">C++</td>
@@ -52,10 +55,9 @@ PNU 코딩테스트 스터디
 
 ## 📌 스터디 규칙
 - 바킹독 강의 주 2개 듣기
-- 화요일(스터디 시간 전)까지 코드 리뷰 및 질문 준비
-- 스터디는 부산대학교에서 2시간 진행.
+- 목요일(스터디 시간 전)까지 코드 리뷰 및 질문 준비
+- 스터디는 온라인으로 진행
   - 1시간: 코드 리뷰 진행
-  - 1시간~: 개념 공부 후 알고리즘 풀이,풀이 공유
 <br/>
 
 ## 📅 커리큘럼
