@@ -33,7 +33,7 @@ PNU 코딩테스트 스터디
     <td align="center"><a href="https://github.com/Jimin-K04"><img src="https://avatars.githubusercontent.com/u/173872163?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/202255605"><img src="https://avatars.githubusercontent.com/u/102909920?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Nayeeun5"><img src="https://avatars.githubusercontent.com/u/182473122?v=4" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jin04151"><img src="https://avatars.githubusercontent.com/u/182473122?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jin04151"><img src="https://avatars.githubusercontent.com/u/194231446?s=96&v=4" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Parkhaeil"><b>Parkhaeil</b></a></td>
