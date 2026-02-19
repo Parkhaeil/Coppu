@@ -10,18 +10,18 @@ vector<string> build(int n) {
     vector<string> prev = build(n / 3);
     vector<string> result;
 
-    // À§ 3ºí·Ï
+    // ìœ„ 3ë¸”ë¡
     for (const string& row : prev) {
         result.push_back(row + row + row);
     }
 
-    // °¡¿îµ¥ 3ºí·Ï 
+    // ê°€ìš´ë° 3ë¸”ë¡ 
     string blank(n / 3, ' ');
     for (const string& row : prev) {
         result.push_back(row + blank + row);
     }
 
-    // ¾Æ·¡ 3ºí·Ï
+    // ì•„ë˜ 3ë¸”ë¡
     for (const string& row : prev) {
         result.push_back(row + row + row);
     }
