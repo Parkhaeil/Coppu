@@ -32,9 +32,7 @@ int main() {
         bool moved = false;
 
         for (int i = 0; i < 4; i++) {
-
             d = (d + 3) % 4;
-
             int nx = x + dx[d];
             int ny = y + dy[d];
             if (nx >= 0 && nx < M && ny >= 0 && ny < N) {
