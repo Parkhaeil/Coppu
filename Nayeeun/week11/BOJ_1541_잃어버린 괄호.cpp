@@ -8,17 +8,16 @@ int main() {
 
     string s;
     cin >> s;
+
     int num = 0, sum = 0;
-    char op = '+';
+    bool minus = false;
+
     for (int i = 0; i <= s.size(); i++) {
         if (s[i] == '+' || s[i] == '-' || i == s.size()) {
-            if (op == '+')
-                sum += num;
-            else
-                sum -= num;
-
+            if (minus) sum -= num;
+            else sum += num;
+            if (s[i] == '-') minus = true;
             num = 0;
-            op = s[i];
         }
         else {
             num = num * 10 + (s[i] - '0');
